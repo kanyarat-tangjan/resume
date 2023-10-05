@@ -1,0 +1,29 @@
+.round {
+  border-radius: 45%;
+
+}
+h1{
+font-family: 'Merriweather', serif;
+ font-size: 85px;
+  color: #094976;
+}
+p{
+font-family: 'Prompt', sans-serif;
+  color: #094976;
+   font-size: 18px;
+
+}
+h4{
+font-family: 'Work Sans', sans-serif;
+  color: #B62424;
+   font-size: 25px;
+}
+
+h6{
+font-family: 'Prompt', sans-serif;
+  color: #B62424;
+   font-size: 18px;
+}
+
+
+
