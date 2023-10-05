@@ -23,8 +23,10 @@ body {
   </head>
   <body>
     <div class="container"><br>
+    </div>
+    <div class="container"><br>
       <div class="row">
-        <div class="col-md-6">&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; <img alt="profile"
+        <div class="col-md-6">&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; <img alt="profile"
             src="images/pro1.jpg" title="profile" class="round" style="width: 238px; height: 238px; "></div>
         <div class="col-md-6">
           <h1> Kanyarat</h1>
@@ -40,7 +42,8 @@ body {
           </h4>
           <h4><br>
           </h4>
-          <h4>About me</h4>
+          <h4> </h4>
+          <h4>About me 640510095</h4>
           <p>นักศึกษาเอกสารสนเทศศาสตร์และบรรณารักษ์ศาสตร์
             สนใจเรื่องการจัดการสารสนเทศ การดูแลห้องสมุดและการออกแบบเว็บไซต์</p>
         </div>
@@ -61,8 +64,8 @@ body {
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;
             คณะอักษรศาสตร์เอกสารสนเทศและบรรณารักษ์ศาสตร์<br>
-            <br>
-          </p>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <br> </p>
           <p>2014 - 2020&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; High school</p>
           <p>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -106,8 +109,8 @@ body {
         </div>
         <div class="col-md-3"> </div>
         <div class="col-md-6">
-          <h5><br>
-          </h5>
+          <h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <br> </h5>
           <h4>Software</h4>
           <p> </p>
           <br>
