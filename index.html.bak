@@ -1,13 +1,165 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <style>
+body {
+  background-image: url('./images/bbg5.jpg');
+  background-repeat: no-repeat;
+   height: 100%;
+   background-position: center;
+  background-size: cover;
+}
+</style> <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Bootstrap demo</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+      rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+      crossorigin="anonymous">
+    <link type="text/css" rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,700&amp;family=Prompt:wght@500&amp;family=Work+Sans:wght@600&amp;display=swap"
+      rel="stylesheet">
   </head>
   <body>
-    <h1>Hello, world!</h1>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    <div class="container"><br>
+      <div class="row">
+        <div class="col-md-6">&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; <img alt="profile"
+            src="images/pro1.jpg" title="profile" class="round" style="width: 238px; height: 238px; "></div>
+        <div class="col-md-6">
+          <h1> Kanyarat</h1>
+          <p> </p>
+          <h1>&nbsp;&nbsp;&nbsp;&nbsp; Tangjan</h1>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-6"><br>
+          <h5><br>
+          </h5>
+          <h4><br>
+          </h4>
+          <h4><br>
+          </h4>
+          <h4>About me</h4>
+          <p>นักศึกษาเอกสารสนเทศศาสตร์และบรรณารักษ์ศาสตร์
+            สนใจเรื่องการจัดการสารสนเทศ การดูแลห้องสมุดและการออกแบบเว็บไซต์</p>
+        </div>
+        <div class="col-md-6">
+          <h5><br>
+          </h5>
+          <h4><br>
+          </h4>
+          <h4>Education</h4>
+          <p> </p>
+          <p> 2021 - 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bachelor'
+            degree</p>
+          <p> </p>
+          <p>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
+            มหาวิทยาลัยศิลปากร<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
+            คณะอักษรศาสตร์เอกสารสนเทศและบรรณารักษ์ศาสตร์<br>
+            <br>
+          </p>
+          <p>2014 - 2020&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; High school</p>
+          <p>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            โรงเรียนสารสาสน์วิเทศนครปฐม </p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-3">
+          <h5><br>
+          </h5>
+          <h4>Languages </h4>
+          <br>
+          <h6>Thai &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <img
+              alt="circle1" src="images/circle1.png" title="circle" style="width: 20px; height: 20px;">
+            <img alt="circle1" src="images/circle1.png" title="circle" style="width: 20px; height: 20px;">
+            <img alt="circle1" src="images/circle1.png" title="circle" style="width: 20px; height: 20px;">
+            <img alt="circle1" src="images/circle1.png" title="circle" style="width: 20px; height: 20px;">
+            <img alt="circle1" src="images/circle1.png" title="circle" style="width: 20px; height: 20px;">
+            <p></p>
+          </h6>
+          <h6>English &nbsp; &nbsp; &nbsp;&nbsp; </h6>
+          <p> </p>
+          <p>Reading &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img alt="circle1" src="images/circle1.png"
+              title="circle" style="width: 20px; height: 20px;"> <img alt="circle1"
+              src="images/circle1.png" title="circle" style="width: 20px; height: 20px;">
+            <img alt="circle1" src="images/circle1.png" title="circle" style="width: 20px; height: 20px;">
+            <img alt="circle1" src="images/circle1.png" title="circle" style="width: 20px; height: 20px;">
+            <img alt="circle1" src="images/circle1.png" title="circle" style="width: 20px; height: 20px;"></p>
+          <p>Listening &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; <img alt="circle1" src="images/circle1.png"
+              title="circle" style="width: 20px; height: 20px;"> <img alt="circle1"
+              src="images/circle1.png" title="circle" style="width: 20px; height: 20px;">
+            <img alt="circle1" src="images/circle1.png" title="circle" style="width: 20px; height: 20px;">
+            <img alt="circle1" src="images/circle1.png" title="circle" style="width: 20px; height: 20px;">&nbsp;</p>
+          <p>Speaking &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <img alt="circle1" src="images/circle1.png"
+              title="circle" style="width: 20px; height: 20px;"> <img alt="circle1"
+              src="images/circle1.png" title="circle" style="width: 20px; height: 20px;">
+            <img alt="circle1" src="images/circle1.png" title="circle" style="width: 20px; height: 20px;"></p>
+          <p>Writing &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; <img alt="circle1"
+              src="images/circle1.png" title="circle" style="width: 20px; height: 20px;">
+            <img alt="circle1" src="images/circle1.png" title="circle" style="width: 20px; height: 20px;">&nbsp;</p>
+        </div>
+        <div class="col-md-3"> </div>
+        <div class="col-md-6">
+          <h5><br>
+          </h5>
+          <h4>Software</h4>
+          <p> </p>
+          <br>
+          <img alt="power1" src="images/powerpoint.png" style="width: 45px; height: 45px;"
+            title="power">&nbsp; &nbsp; &nbsp; &nbsp; <img alt="excel1" src="images/excel.png"
+            style="width: 45px; height: 45px;" title="excel">&nbsp; &nbsp;
+          &nbsp; &nbsp; <img alt="word1" src="images/word.png" style="width: 45px; height: 45px;"
+            title="word"> <br>
+          <br>
+          <h4><br>
+          </h4>
+          <h4>Interest</h4>
+          <br>
+          <div> <img alt="music1" src="images/music.png" style="width: 45px; height: 45px;"
+              title="music"> &nbsp; &nbsp; &nbsp; <img alt="book1" src="images/book.png"
+              style="width: 45px; height: 45px;" title="book"> &nbsp; &nbsp;
+            &nbsp; <img alt="film1" src="images/film.png" style="width: 45px; height: 45px;"
+              title="film"> </div>
+        </div>
+        <div class="row">
+          <div class="col-md-6">
+            <h5><br>
+            </h5>
+            <h4>Skills </h4>
+            <br>
+            <p> Communication skills</p>
+            <p> Interpersonal skills</p>
+            <p> Positive attitude and energy </p>
+            <p> Adaptability and flexibility </p>
+          </div>
+          <div class="col-md-6">
+            <h6></h6>
+            <h4><br>
+            </h4>
+            <h4>Contact</h4>
+            <br>
+            <p> <img alt="mail1" src="images/email.png" title="mail" style="width: 25px; height: 25px;">
+              &nbsp;&nbsp; tangjan_k@su.ac.th </p>
+            <p> <img alt="facebook1" src="images/facebook.png" title="facebook"
+                style="width: 25px; height: 25px;"> &nbsp;&nbsp; Kanyarat oomikq
+            </p>
+            <p> <img alt="ig1" src="images/instagram.png" title="ig" style="width: 25px; height: 25px;">&nbsp;&nbsp;&nbsp;
+              oomikq </p>
+            <p> <img alt="phone1" src="images/phone.png" title="phone" style="width: 25px; height: 25px;">&nbsp;
+              &nbsp; 0626600312 </p>
+            <p> </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+crossorigin="anonymous"></script>
   </body>
 </html>
