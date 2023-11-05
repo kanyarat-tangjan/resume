@@ -1,0 +1,46 @@
+h1{
+font-family: 'Playfair Display', serif;
+ font-size: 60px;
+  color: #094976;
+}
+
+h2{
+font-family: 'Playfair Display', serif;
+ font-size: 60px;
+  color: #FFFAF0;
+}
+  
+p{
+font-family: 'Prompt', sans-serif;
+  color: #094976;
+   font-size: 18px;
+}
+
+h3{
+font-family: 'Work Sans', sans-serif;
+  color: #B62424;
+   font-size: 25px;
+}
+
+.hbg {
+   border: 5px solid #FFFFFF;
+  padding: 5px;
+  background: #094976;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+body {
+  margin: 50px;
+}
+
+.bt {
+border-top: 2px solid blue;
+}
+
+
