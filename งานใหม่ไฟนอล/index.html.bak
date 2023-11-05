@@ -4,7 +4,7 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <style>
     body {
-  background-image: url('./images/bbg1.jpg');
+  background-image: url('./images/bbg5.jpg');
   background-repeat: no-repeat;
    height: 100%;
    background-position: center;
@@ -21,6 +21,9 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&amp;family=Prompt:wght@500&amp;family=Work+Sans:wght@600&amp;display=swap"
       rel="stylesheet">
+    <meta name="author" content="Kanyarat Tangjan">
+    <meta name="keywords" content="Kanyarat Tangjan, สารสนเทศ, เว็บไซต์, ห้องสมุด">
+    <meta name="description" content="Kanyarat Tangjan ประวัติส่วน ทักษะการทำงานพื้นฐานโปรแกรม ความรู้เรื่องการจัดการห้องสมุดและข้อมูลสารสนเทศ">
   </head>
   <body>
     <div class="container-fluid"> <br>
